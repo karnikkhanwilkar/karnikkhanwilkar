@@ -1,16 +1,48 @@
-## Hi there 👋
+# Hi there, I'm Karnik! 👋  
+🎓 B.Tech CSE (AI & ML) Student | 💡 Tech Explorer | 🍳 Code & Cook Enthusiast
 
-<!--
-**karnikkhanwilkar/karnikkhanwilkar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+### 🚀 About Me  
+- 🧠 Passionate about Artificial Intelligence, Machine Learning, and cutting-edge tech  
+- 👨‍💻 Currently exploring projects in **AI, Web Development, and DevOps**  
+- 📚 Learning new tools, frameworks, and ways to automate everything I can  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🛠️ Languages & Tools  
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java&logoColor=white)
+
+---
+
+### 🌱 Currently Learning  
+- 🤖 Deep Learning, Computer Vision, and Natural Language Processing  
+- 🔧 FastAPI, Supabase, Tailwind CSS  
+- ☁️ Cloud & DevOps basics (Docker, GitHub Actions, etc.)
+
+---
+
+### ⚡ Fun Facts  
+- 👨‍🍳 I love turning random groceries into tasty dishes  
+- 🏆 I’ve built hackathon-ready apps and ML models from scratch  
+- 🧪 I treat every project like a mini startup—real use case, real impact
+
+---
+
+### 📊 GitHub Stats  
+![Karnik's GitHub Stats](https://github-readme-stats.vercel.app/api?username=karnikkhanwilkar&show_icons=true&theme=radical&count_private=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=karnikkhanwilkar&layout=compact&theme=radical)
+
+---
+
+### 📫 Let’s Connect  
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/karnik-khanwilkar)
+
+---
+
+### 🔥 Projects Worth Checking Out  
+
+
