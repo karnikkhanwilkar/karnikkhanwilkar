@@ -4,9 +4,9 @@
 ---
 
 ### 🚀 About Me  
-- 🧠 Passionate about Artificial Intelligence, Machine Learning, and cutting-edge tech  
-- 👨‍💻 Currently exploring projects in **AI, Web Development, and DevOps**  
-- 📚 Learning new tools, frameworks, and ways to automate everything I can  
+- Passionate about Artificial Intelligence, Machine Learning, and cutting-edge tech  
+- Currently exploring projects in **AI, Web Development, and DevOps**  
+- Learning new tools, frameworks, and ways to automate everything I can  
 
 ---
 
@@ -18,17 +18,17 @@
 
 ---
 
-### 🌱 Currently Learning  
-- 🤖 Deep Learning, Computer Vision, and Natural Language Processing  
-- 🔧 FastAPI, Supabase, Tailwind CSS  
-- ☁️ Cloud & DevOps basics (Docker, GitHub Actions, etc.)
+### 🧠 Currently Learning  
+- Deep Learning, Computer Vision, and Natural Language Processing  
+- FastAPI, Supabase, Tailwind CSS  
+- Cloud & DevOps basics (Docker, GitHub Actions, etc.)
 
 ---
 
 ### ⚡ Fun Facts  
-- 👨‍🍳 I love turning random groceries into tasty dishes  
-- 🏆 I’ve built hackathon-ready apps and ML models from scratch  
-- 🧪 I treat every project like a mini startup—real use case, real impact
+- I’ve built hackathon-ready apps and ML models from scratch  
+- I treat every project like a mini startup—real use case, real impact
+- I love turning random groceries into tasty dishes
 
 ---
 
