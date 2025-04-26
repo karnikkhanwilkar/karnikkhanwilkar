@@ -33,7 +33,6 @@
 ---
 
 ### 📊 GitHub Stats  
-![Karnik's GitHub Stats](https://github-readme-stats.vercel.app/api?username=karnikkhanwilkar&show_icons=true&theme=radical&count_private=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=karnikkhanwilkar&layout=compact&theme=radical)
 
 ---
