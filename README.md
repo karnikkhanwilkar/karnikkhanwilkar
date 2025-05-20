@@ -5,7 +5,7 @@
 
 ### 🚀 About Me  
 - Passionate about Artificial Intelligence, Machine Learning, and cutting-edge tech  
-- Currently exploring projects in **AI, Web Development, and DevOps**  
+- Currently exploring projects in **AI, ML and Web Dev**  
 - Learning new tools, frameworks, and ways to automate everything I can  
 
 ---
