@@ -45,81 +45,186 @@
 
 ---
 
-## ⚔️ WEAPON INVENTORY
+## 🗡️ SKILL TREE
 
-### Core Arsenal
-![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
+```
+                     ╔════════════════╗
+                     ║   PROGRAMMING  ║
+                     ╚════════════════╝
+                            ▼
+        ┌───────────────────┼───────────────────┐
+        ▼                   ▼                   ▼
+    [Python]          [JavaScript]        [TypeScript]
+    ████████          ███████░░░          ██████░░░░
+     Lvl 8              Lvl 7              Lvl 6
 
-### AI/ML Equipment
-![Deep Learning](https://img.shields.io/badge/Deep_Learning-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![Computer Vision](https://img.shields.io/badge/Computer_Vision-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
-![NLP](https://img.shields.io/badge/NLP-00979D?style=for-the-badge&logo=probot&logoColor=white)
+                     ╔════════════════╗
+                     ║    AI & ML     ║
+                     ╚════════════════╝
+                            ▼
+        ┌───────────────────┼───────────────────┐
+        ▼                   ▼                   ▼
+[Deep Learning]    [Computer Vision]          [NLP]
+  ██████░░░░         █████░░░░░            ████░░░░░░
+   Lvl 6              Lvl 5                 Lvl 4
 
-### Web Dev Tools
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+                     ╔════════════════╗
+                     ║   WEB & CLOUD  ║
+                     ╚════════════════╝
+                            ▼
+        ┌───────────────────┼───────────────────┐
+        ▼                   ▼                   ▼
+    [FastAPI]          [React/Next]         [Tailwind]
+    ███████░░░          ██████░░░░           ███████░░░
+     Lvl 7               Lvl 6                Lvl 7
 
-### DevOps Gear
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
+                     ╔════════════════╗
+                     ║     DEVOPS     ║
+                     ╚════════════════╝
+                            ▼
+                ┌───────────┴───────────┐
+                ▼                       ▼
+            [Docker]              [Git & GitHub]
+            █████░░░░░             ████████░░
+             Lvl 5                  Lvl 8
+```
+
+### Equipment Loadout
+
+**Languages**  
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white)
+
+**AI/ML Frameworks**  
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
+
+**Web Development**  
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
+
+**DevOps & Tools**  
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white)
 
 ---
 
-## 📈 GAME STATISTICS
+## � PLAYER ANALYTICS
 
 <div align="center">
 
-![Stats](https://github-readme-stats.vercel.app/api?username=karnikkhanwilkar&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866&text_color=FFFFFF)
+```
+╔════════════════════════════════════════════════════════╗
+║  DAILY STREAK: Building consistency, one commit at a   ║
+║  time. Every project is a learning opportunity.        ║
+╚════════════════════════════════════════════════════════╝
+```
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=karnikkhanwilkar&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=F85D7F&text_color=FFFFFF)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=karnikkhanwilkar&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=70a5fd&icon_color=bf91f3&text_color=38bdae)
 
-![Streak](https://github-readme-streak-stats.herokuapp.com/?user=karnikkhanwilkar&theme=radical&hide_border=true&background=0D1117&ring=F85D7F&fire=F8D866&currStreakLabel=F85D7F)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=karnikkhanwilkar&layout=compact&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=70a5fd&text_color=38bdae)
 
 </div>
 
 ---
 
-## 🎯 ACTIVE ACHIEVEMENTS
+## 🏆 ACHIEVEMENT LOG
 
 ```
-[✓] Built hackathon-ready applications from scratch
-[✓] Developed ML models with real-world impact
-[✓] Treat every project like a startup venture
-[◯] Master Deep Learning architectures
-[◯] Deploy production-grade ML systems
-[◯] Contribute to open-source AI projects
+╔═══════════════════════════════════════════════════════════════════╗
+║                                                                   ║
+║  🎯 [COMPLETED] Built multiple web apps with real use cases       ║
+║  🎯 [COMPLETED] Developed ML models from concept to deployment    ║
+║  🎯 [COMPLETED] Participated in hackathons and team projects      ║
+║                                                                   ║
+║  ⏳ [IN PROGRESS] Mastering advanced ML architectures             ║
+║  ⏳ [IN PROGRESS] Contributing to open source projects            ║
+║  ⏳ [IN PROGRESS] Building production-ready AI systems            ║
+║                                                                   ║
+║  🔒 [LOCKED] Launch a SaaS product                                ║
+║  🔒 [LOCKED] Publish research paper                               ║
+║  🔒 [LOCKED] Speak at a tech conference                           ║
+║                                                                   ║
+╚═══════════════════════════════════════════════════════════════════╝
 ```
 
 ---
 
-## 🌐 CONNECT & COLLABORATE
-
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/karnik-khanwilkar/)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/karnikkhanwilkar)
-
-</div>
-
----
-
-<div align="center">
+## 🎮 ACTIVE QUESTS
 
 ```
 ┌─────────────────────────────────────────────────────────┐
-│  "Every project is an opportunity to build something    │
-│   with real impact and purpose."                        │
-│                                          - Karnik K.     │
+│ QUEST LOG                                Priority: HIGH │
+├─────────────────────────────────────────────────────────┤
+│                                                          │
+│ → Exploring Deep Learning for Computer Vision           │
+│ → Building scalable web applications with FastAPI       │
+│ → Learning cloud infrastructure and deployment          │
+│ → Experimenting with NLP and generative AI              │
+│ → Automating workflows with Python scripts              │
+│                                                          │
 └─────────────────────────────────────────────────────────┘
 ```
 
-![Visitor Count](https://profile-counter.glitch.me/karnikkhanwilkar/count.svg)
+---
 
-**THANKS FOR VISITING MY PROFILE!**
+## 💬 MULTIPLAYER MODE
 
-[![GAME OVER](https://img.shields.io/badge/🎮_CONTINUE?-00FF00?style=for-the-badge&labelColor=000000)](#)
+<div align="center">
+
+```
+╔══════════════════════════════════════════════════════╗
+║  Looking for party members to collaborate on         ║
+║  AI projects, web apps, or just share knowledge!     ║
+╚══════════════════════════════════════════════════════╝
+```
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/karnik-khanwilkar/)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/karnikkhanwilkar)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
+
+</div>
+
+---
+
+<div align="center">
+
+```
+┌──────────────────────────────────────────────────────────────┐
+│                                                              │
+│  "Code with purpose. Learn with curiosity. Build with       │
+│   passion. Every line is a step forward."                   │
+│                                                              │
+└──────────────────────────────────────────────────────────────┘
+```
+
+```
+    ▄▄▄▄▄▄▄▄▄▄▄  ▄▄▄▄▄▄▄▄▄▄▄  ▄▄        ▄  ▄▄▄▄▄▄▄▄▄▄▄ 
+   ▐░░░░░░░░░░░▌▐░░░░░░░░░░░▌▐░░▌      ▐░▌▐░░░░░░░░░░░▌
+   ▐░█▀▀▀▀▀▀▀▀▀ ▐░█▀▀▀▀▀▀▀█░▌▐░▌░▌     ▐░▌▐░█▀▀▀▀▀▀▀▀▀ 
+   ▐░▌          ▐░▌       ▐░▌▐░▌▐░▌    ▐░▌▐░▌          
+   ▐░▌ ▄▄▄▄▄▄▄▄ ▐░█▄▄▄▄▄▄▄█░▌▐░▌ ▐░▌   ▐░▌▐░█▄▄▄▄▄▄▄▄▄ 
+   ▐░▌▐░░░░░░░░▌▐░░░░░░░░░░░▌▐░▌  ▐░▌  ▐░▌▐░░░░░░░░░░░▌
+   ▐░▌ ▀▀▀▀▀▀█░▌▐░█▀▀▀▀▀▀▀█░▌▐░▌   ▐░▌ ▐░▌▐░█▀▀▀▀▀▀▀▀▀ 
+   ▐░▌       ▐░▌▐░▌       ▐░▌▐░▌    ▐░▌▐░▌▐░▌          
+   ▐░█▄▄▄▄▄▄▄█░▌▐░▌       ▐░▌▐░▌     ▐░▐░▌▐░█▄▄▄▄▄▄▄▄▄ 
+   ▐░░░░░░░░░░░▌▐░▌       ▐░▌▐░▌      ▐░░▌▐░░░░░░░░░░░▌
+    ▀▀▀▀▀▀▀▀▀▀▀  ▀         ▀  ▀        ▀▀  ▀▀▀▀▀▀▀▀▀▀▀ 
+                                                        
+              Press ⭐ to save progress!
+```
+
+![Profile Views](https://komarev.com/ghpvc/?username=karnikkhanwilkar&color=70a5fd&style=flat-square&label=Profile+Views)
+
+**Thanks for visiting my profile!**
 
 </div>
