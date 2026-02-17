@@ -1,41 +1,47 @@
 ```
-┏━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┓
-┃                                                                              ┃
-┃  ██╗  ██╗ █████╗ ██████╗ ███╗   ██╗██╗██╗  ██╗                             ┃
-┃  ██║ ██╔╝██╔══██╗██╔══██╗████╗  ██║██║██║ ██╔╝                             ┃
-┃  █████╔╝ ███████║██████╔╝██╔██╗ ██║██║█████╔╝                              ┃
-┃  ██╔═██╗ ██╔══██║██╔══██╗██║╚██╗██║██║██╔═██╗                              ┃
-┃  ██║  ██╗██║  ██║██║  ██║██║ ╚████║██║██║  ██╗                             ┃
-┃  ╚═╝  ╚═╝╚═╝  ╚═╝╚═╝  ╚═╝╚═╝  ╚═══╝╚═╝╚═╝  ╚═╝                             ┃
-┃                                                                              ┃
-┃                    » B.Tech CSE (AI & ML) Student «                         ┃
-┃                    » Tech Explorer & Code Enthusiast «                      ┃
-┃                                                                              ┃
-┗━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┛
+╔═══════════════════════════════════════════════════════════════════════════╗
+║                                                                           ║
+║     ██╗  ██╗ █████╗ ██████╗ ███╗   ██╗██╗██╗  ██╗                       ║
+║     ██║ ██╔╝██╔══██╗██╔══██╗████╗  ██║██║██║ ██╔╝                       ║
+║     █████╔╝ ███████║██████╔╝██╔██╗ ██║██║█████╔╝                        ║
+║     ██╔═██╗ ██╔══██║██╔══██╗██║╚██╗██║██║██╔═██╗                        ║
+║     ██║  ██╗██║  ██║██║  ██║██║ ╚████║██║██║  ██╗                       ║
+║     ╚═╝  ╚═╝╚═╝  ╚═╝╚═╝  ╚═╝╚═╝  ╚═══╝╚═╝╚═╝  ╚═╝                       ║
+║                                                                           ║
+║              Level 20 Developer  •  AI/ML Specialist Class                ║
+║                      B.Tech CSE (AI & ML)                                 ║
+║                                                                           ║
+╚═══════════════════════════════════════════════════════════════════════════╝
 ```
 
 <div align="center">
 
-[![PRESS START](https://img.shields.io/badge/🎮_PRESS_START-FF0000?style=for-the-badge&labelColor=000000)](#)
+[![INSERT COIN](https://img.shields.io/badge/INSERT_COIN_TO_START-FFD700?style=for-the-badge&labelColor=000000&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAA4AAAAOCAYAAAAfSC3RAAAABHNCSVQICAgIfAhkiAAAAAlwSFlzAAAAOwAAADsB3WFPSAAAAB1pVFh0U29mdHdhcmUAQWRvYmUgSW1hZ2VSZWFkeQccllPAAAABbklEQVQoU2NkYGD4z0AEYGJiIo6enp7+n5GR8T8DAwP6Mtzq/v///4+RkfEfEBwGBgYGdXV1/KqJtgkdAwMDA8P////xqyXaRrAAAAAAElFTkSuQmCC)](#)
 
 </div>
 
 ---
 
-## 🎮 PLAYER STATUS
+## 🎯 CHARACTER STATS
 
 ```
-╔════════════════════════════════════════════════════════════╗
-║  LEVEL: Final Year Student                                 ║
-║  CLASS: AI/ML Engineer                                     ║
-║  QUEST: Building intelligent systems & web applications    ║
-║  XP: Growing daily through projects and experimentation    ║
-╚════════════════════════════════════════════════════════════╝
+╔══════════════════════════════════════════════════════════════╗
+║                                                              ║
+║  HP: ████████████████░░░░  Learning Mode: ON                ║
+║  MP: ██████████████░░░░░░  Creativity: High                 ║
+║  STR: Problem Solving      DEX: Quick Learner               ║
+║  INT: AI/ML Focus          LUK: Project Builder             ║
+║                                                              ║
+║  Status: Actively seeking new challenges                    ║
+║  Guild: Computer Science Engineering                        ║
+║  Current Zone: AI & Web Development Realm                   ║
+║                                                              ║
+╚══════════════════════════════════════════════════════════════╝
 ```
 
-**CURRENT MISSION:** Exploring the realms of AI, ML, and Web Development  
-**SPECIAL ABILITIES:** Code crafting, algorithm design, problem-solving  
-**SIDE QUEST:** Turning random groceries into epic dishes
+**MAIN QUEST:** Building AI-powered solutions and modern web apps  
+**DAILY QUESTS:** Learning new frameworks, solving algorithms, experimenting  
+**HIDDEN SKILL:** Cooking up dishes from whatever's in the fridge
 
 ---
 
