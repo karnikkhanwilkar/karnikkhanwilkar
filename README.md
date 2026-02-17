@@ -1,3 +1,5 @@
+<div align="center">
+
 ```
 ╔═══════════════════════════════════════════════════════════════════════════╗
 ║                                                                           ║
@@ -8,15 +10,14 @@
 ║     ██║  ██╗██║  ██║██║  ██║██║ ╚████║██║██║  ██╗                       ║
 ║     ╚═╝  ╚═╝╚═╝  ╚═╝╚═╝  ╚═╝╚═╝  ╚═══╝╚═╝╚═╝  ╚═╝                       ║
 ║                                                                           ║
-║              Level 20 Developer  •  AI/ML Specialist Class                ║
-║                      B.Tech CSE (AI & ML)                                 ║
-║                                                                           ║
 ╚═══════════════════════════════════════════════════════════════════════════╝
 ```
 
-<div align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&size=20&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&width=600&lines=Level+20+Developer;AI%2FML+Specialist+Class;B.Tech+CSE+(AI+%26+ML);Building+The+Future+With+Code" alt="Typing SVG" />
 
-[![INSERT COIN](https://img.shields.io/badge/INSERT_COIN_TO_START-FFD700?style=for-the-badge&labelColor=000000&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAA4AAAAOCAYAAAAfSC3RAAAABHNCSVQICAgIfAhkiAAAAAlwSFlzAAAAOwAAADsB3WFPSAAAAB1pVFh0U29mdHdhcmUAQWRvYmUgSW1hZ2VSZWFkeQccllPAAAABbklEQVQoU2NkYGD4z0AEYGJiIo6enp7+n5GR8T8DAwP6Mtzq/v///4+RkfEfEBwGBgYGdXV1/KqJtgkdAwMDA8P////xqyXaRrAAAAAAElFTkSuQmCC)](#)
+[![INSERT COIN](https://img.shields.io/badge/INSERT_COIN_TO_START-FFD700?style=for-the-badge&labelColor=000000)](#)
+
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="Waving Hand" width="60" />
 
 </div>
 
@@ -24,24 +25,26 @@
 
 ## 🎯 CHARACTER STATS
 
+<div align="center">
+
+<img src="https://readme-typing-svg.herokuapp.com?font=VT323&size=18&duration=2000&pause=500&color=38BDAE&center=true&vCenter=true&multiline=true&width=500&height=120&lines=HP%3A+%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%91%E2%96%91%E2%96%91%E2%96%91++Learning+Mode%3A+ON;MP%3A+%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%91%E2%96%91%E2%96%91%E2%96%91%E2%96%91%E2%96%91++Creativity%3A+High;Status%3A+Actively+seeking+new+challenges" alt="Character Stats" />
+
+</div>
+
 ```
 ╔══════════════════════════════════════════════════════════════╗
-║                                                              ║
-║  HP: ████████████████░░░░  Learning Mode: ON                ║
-║  MP: ██████████████░░░░░░  Creativity: High                 ║
 ║  STR: Problem Solving      DEX: Quick Learner               ║
 ║  INT: AI/ML Focus          LUK: Project Builder             ║
-║                                                              ║
-║  Status: Actively seeking new challenges                    ║
 ║  Guild: Computer Science Engineering                        ║
 ║  Current Zone: AI & Web Development Realm                   ║
-║                                                              ║
 ╚══════════════════════════════════════════════════════════════╝
 ```
 
-**MAIN QUEST:** Building AI-powered solutions and modern web apps  
-**DAILY QUESTS:** Learning new frameworks, solving algorithms, experimenting  
-**HIDDEN SKILL:** Cooking up dishes from whatever's in the fridge
+<div align="center">
+
+<img src="https://readme-typing-svg.herokuapp.com?font=VT323&size=16&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&multiline=true&width=600&height=80&lines=MAIN+QUEST%3A+Building+AI-powered+solutions;DAILY+QUESTS%3A+Learning+%7C+Coding+%7C+Experimenting;HIDDEN+SKILL%3A+Turning+groceries+into+masterpieces" alt="Quests" />
+
+</div>
 
 ---
 
@@ -89,32 +92,24 @@
              Lvl 5                  Lvl 8
 ```
 
-### Equipment Loadout
+### 🎮 Equipment Loadout
+
+<div align="center">
 
 **Languages**  
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
-![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white)
+<img src="https://skillicons.dev/icons?i=python,js,ts,cpp,java&theme=dark" alt="Languages" />
 
 **AI/ML Frameworks**  
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
+<img src="https://skillicons.dev/icons?i=tensorflow,pytorch,opencv&theme=dark" alt="AI/ML" />
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 
 **Web Development**  
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
+<img src="https://skillicons.dev/icons?i=react,nextjs,fastapi,tailwind,supabase&theme=dark" alt="Web Dev" />
 
 **DevOps & Tools**  
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white)
+<img src="https://skillicons.dev/icons?i=docker,git,github,vscode&theme=dark" alt="DevOps" />
+
+</div>
 
 ---
 
@@ -129,9 +124,23 @@
 ╚════════════════════════════════════════════════════════╝
 ```
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=karnikkhanwilkar&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=70a5fd&icon_color=bf91f3&text_color=38bdae)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=karnikkhanwilkar&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=70a5fd&icon_color=bf91f3&text_color=38bdae&include_all_commits=true&count_private=true)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=karnikkhanwilkar&theme=tokyonight&hide_border=true&background=1a1b27&ring=70a5fd&fire=bf91f3&currStreakLabel=70a5fd)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=karnikkhanwilkar&layout=compact&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=70a5fd&text_color=38bdae)
+
+### 🏆 GitHub Trophies
+
+![Trophies](https://github-profile-trophy.vercel.app/?username=karnikkhanwilkar&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&column=7)
+
+### 📈 Activity Graph
+
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=karnikkhanwilkar&bg_color=1a1b27&color=70a5fd&line=bf91f3&point=38bdae&area=true&hide_border=true)
+
+### 🐍 Contribution Snake
+
+![Snake animation](https://raw.githubusercontent.com/karnikkhanwilkar/karnikkhanwilkar/output/github-contribution-grid-snake-dark.svg)
 
 </div>
 
@@ -181,16 +190,19 @@
 
 <div align="center">
 
-```
-╔══════════════════════════════════════════════════════╗
-║  Looking for party members to collaborate on         ║
-║  AI projects, web apps, or just share knowledge!     ║
-╚══════════════════════════════════════════════════════╝
-```
+<img src="https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&size=14&duration=3000&pause=1000&color=BF91F3&center=true&vCenter=true&width=500&lines=Looking+for+party+members!;Let's+collaborate+on+AI+projects;Or+just+share+knowledge+%F0%9F%9A%80" alt="Multiplayer" />
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/karnik-khanwilkar/)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/karnikkhanwilkar)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
+<br><br>
+
+<a href="https://www.linkedin.com/in/karnik-khanwilkar/">
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=000000" alt="LinkedIn" />
+</a>
+<a href="https://github.com/karnikkhanwilkar">
+  <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=000000" alt="GitHub" />
+</a>
+<a href="mailto:your.email@example.com">
+  <img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=000000" alt="Email" />
+</a>
 
 </div>
 
@@ -207,19 +219,7 @@
 └──────────────────────────────────────────────────────────────┘
 ```
 
-```
-    ▄▄▄▄▄▄▄▄▄▄▄  ▄▄▄▄▄▄▄▄▄▄▄  ▄▄        ▄  ▄▄▄▄▄▄▄▄▄▄▄ 
-   ▐░░░░░░░░░░░▌▐░░░░░░░░░░░▌▐░░▌      ▐░▌▐░░░░░░░░░░░▌
-   ▐░█▀▀▀▀▀▀▀▀▀ ▐░█▀▀▀▀▀▀▀█░▌▐░▌░▌     ▐░▌▐░█▀▀▀▀▀▀▀▀▀ 
-   ▐░▌          ▐░▌       ▐░▌▐░▌▐░▌    ▐░▌▐░▌          
-   ▐░▌ ▄▄▄▄▄▄▄▄ ▐░█▄▄▄▄▄▄▄█░▌▐░▌ ▐░▌   ▐░▌▐░█▄▄▄▄▄▄▄▄▄ 
-   ▐░▌▐░░░░░░░░▌▐░░░░░░░░░░░▌▐░▌  ▐░▌  ▐░▌▐░░░░░░░░░░░▌
-   ▐░▌ ▀▀▀▀▀▀█░▌▐░█▀▀▀▀▀▀▀█░▌▐░▌   ▐░▌ ▐░▌▐░█▀▀▀▀▀▀▀▀▀ 
-   ▐░▌       ▐░▌▐░▌       ▐░▌▐░▌    ▐░▌▐░▌▐░▌          
-   ▐░█▄▄▄▄▄▄▄█░▌▐░▌       ▐░▌▐░▌     ▐░▐░▌▐░█▄▄▄▄▄▄▄▄▄ 
-   ▐░░░░░░░░░░░▌▐░▌       ▐░▌▐░▌      ▐░░▌▐░░░░░░░░░░░▌
-    ▀▀▀▀▀▀▀▀▀▀▀  ▀         ▀  ▀        ▀▀  ▀▀▀▀▀▀▀▀▀▀▀ 
-                                                        
+``` 
               Press ⭐ to save progress!
 ```
 
