@@ -13,7 +13,7 @@
 ╚═══════════════════════════════════════════════════════════════════════════╝
 ```
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&size=20&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&width=600&lines=Level+20+Developer;AI%2FML+Specialist+Class;B.Tech+CSE+(AI+%26+ML);Building+The+Future+With+Code" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&size=20&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&width=600&lines=Level+20+Developer;AI%2FML+Developer+Class;B.Tech+CSE+(AI+%26+ML);Building+The+Future+With+Code" alt="Typing SVG" />
 
 [![INSERT COIN](https://img.shields.io/badge/INSERT_COIN_TO_START-FFD700?style=for-the-badge&labelColor=000000)](#)
 
