@@ -111,40 +111,6 @@
 
 </div>
 
----
-
-## � PLAYER ANALYTICS
-
-<div align="center">
-
-```
-╔════════════════════════════════════════════════════════╗
-║  DAILY STREAK: Building consistency, one commit at a   ║
-║  time. Every project is a learning opportunity.        ║
-╚════════════════════════════════════════════════════════╝
-```
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=karnikkhanwilkar&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=70a5fd&icon_color=bf91f3&text_color=38bdae&include_all_commits=true&count_private=true)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=karnikkhanwilkar&theme=tokyonight&hide_border=true&background=1a1b27&ring=70a5fd&fire=bf91f3&currStreakLabel=70a5fd)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=karnikkhanwilkar&layout=compact&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=70a5fd&text_color=38bdae)
-
-### 🏆 GitHub Trophies
-
-![Trophies](https://github-profile-trophy.vercel.app/?username=karnikkhanwilkar&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&column=7)
-
-### 📈 Activity Graph
-
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=karnikkhanwilkar&bg_color=1a1b27&color=70a5fd&line=bf91f3&point=38bdae&area=true&hide_border=true)
-
-### 🐍 Contribution Snake
-
-![Snake animation](https://raw.githubusercontent.com/karnikkhanwilkar/karnikkhanwilkar/output/github-contribution-grid-snake-dark.svg)
-
-</div>
-
----
 
 ## 🏆 ACHIEVEMENT LOG
 
