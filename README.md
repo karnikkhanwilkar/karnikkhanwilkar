@@ -97,14 +97,14 @@
 <div align="center">
 
 **Languages**  
-<img src="https://skillicons.dev/icons?i=python,js,ts,cpp,java&theme=dark" alt="Languages" />
+<img src="https://skillicons.dev/icons?i=python,js&theme=dark" alt="Languages" />
 
 **AI/ML Frameworks**  
 <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,opencv&theme=dark" alt="AI/ML" />
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 
 **Web Development**  
-<img src="https://skillicons.dev/icons?i=react,nextjs,fastapi,tailwind,supabase&theme=dark" alt="Web Dev" />
+<img src="https://skillicons.dev/icons?i=react,nextjs,fastapi,tailwind,supabase,firbase&theme=dark" alt="Web Dev" />
 
 **DevOps & Tools**  
 <img src="https://skillicons.dev/icons?i=docker,git,github,vscode&theme=dark" alt="DevOps" />
@@ -166,7 +166,7 @@
 <a href="https://github.com/karnikkhanwilkar">
   <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=000000" alt="GitHub" />
 </a>
-<a href="mailto:your.email@example.com">
+<a href="mailto:karnikkhanwilkar@gmail.com">
   <img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=000000" alt="Email" />
 </a>
 
