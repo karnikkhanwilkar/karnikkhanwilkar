@@ -5,15 +5,13 @@
 
 <!-- ──────────────────────────  HERO BANNER  ────────────────────────────── -->
 
-</a>
-
 <!-- ──────────────────────────  TYPING SVG  ─────────────────────────────── -->
 <div align="center">
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=23&duration=2800&pause=900&color=8E2DE2&center=true&vCenter=true&width=880&height=55&lines=GenAI+Developer+at+GiryoTech;Designing+RAG+systems+and+LLM+pipelines+for+production;Google+GenAI+Academy+%7C+Vertex+AI+%7C+Gemini;Full-Stack+with+FastAPI+%2B+React+%2B+Python;Turning+ideas+into+real-world+impact)](https://karnikkhanwilkar.vercel.app/)
 
 <!-- ──────────────────────────  PROFILE BADGES  ─────────────────────────── -->
-<img src="https://img.shields.io/badge/Portfolio-Visit-8E2DE2?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/></a>
+<a href="https://karnikkhanwilkar.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-Visit-8E2DE2?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/></a>
 <a href="https://www.linkedin.com/in/karnikkhanwilkar"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
 <a href="mailto:karnikkhanwilkar@gmail.com"><img src="https://img.shields.io/badge/Email-Reach%20out-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>
 <img src="https://komarev.com/ghpvc/?username=karnikkhanwilkar&style=for-the-badge&color=8E2DE2&label=PROFILE+VIEWS" alt="views"/>
@@ -155,7 +153,7 @@ RAG architecture, prompt design, FastAPI + React, deploying LLM apps to prod.
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=karnikkhanwilkar&show_icons=true&include_all_commits=true&count_private=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=8E2DE2&icon_color=00C9FF&text_color=c9d1d9" alt="stats"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=karnikkhanwilkar&show_icons=true&count_private=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=8E2DE2&icon_color=00C9FF&text_color=c9d1d9&cache_seconds=86400" alt="stats"/>
 <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=karnikkhanwilkar&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=8E2DE2&text_color=c9d1d9&langs_count=8" alt="top langs"/>
 
 <br/><br/>
