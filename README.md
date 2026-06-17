@@ -4,7 +4,7 @@
 <!-- ════════════════════════════════════════════════════════════════════════ -->
 
 <!-- ──────────────────────────  HERO BANNER  ────────────────────────────── -->
-<a href="https://karnikkhanwilkar.vercel.app/">
+
   <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:8E2DE2,40:4A00E0,100:00C9FF&height=240&section=header&text=Karnik%20Khanwilkar&fontSize=54&fontColor=ffffff&animation=fadeIn&fontAlignY=34&desc=GenAI%20%26%20Full-Stack%20Developer%20%7C%20LLM%20Applications%20%7C%20RAG%20Systems&descAlignY=52&descSize=18" alt="header"/>
 </a>
 
@@ -14,7 +14,7 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=23&duration=2800&pause=900&color=8E2DE2&center=true&vCenter=true&width=880&height=55&lines=GenAI+Developer+at+GiryoTech;Designing+RAG+systems+and+LLM+pipelines+for+production;Google+GenAI+Academy+%7C+Vertex+AI+%7C+Gemini;Full-Stack+with+FastAPI+%2B+React+%2B+Python;Turning+ideas+into+real-world+impact)](https://karnikkhanwilkar.vercel.app/)
 
 <!-- ──────────────────────────  PROFILE BADGES  ─────────────────────────── -->
-<a href="https://karnikkhanwilkar.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-Visit-8E2DE2?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/></a>
+<img src="https://img.shields.io/badge/Portfolio-Visit-8E2DE2?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/></a>
 <a href="https://www.linkedin.com/in/karnikkhanwilkar"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
 <a href="mailto:karnikkhanwilkar@gmail.com"><img src="https://img.shields.io/badge/Email-Reach%20out-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>
 <img src="https://komarev.com/ghpvc/?username=karnikkhanwilkar&style=for-the-badge&color=8E2DE2&label=PROFILE+VIEWS" alt="views"/>
@@ -24,7 +24,7 @@
 <br/>
 
 <!-- ──────────────────────────  SECTION · WHOAMI  ───────────────────────── -->
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:8E2DE2,100:00C9FF&height=2&width=100%&section=header" alt="divider"/>
+---
 
 ### &nbsp; `~ whoami`
 
@@ -53,7 +53,7 @@ class Karnik:
 <br/>
 
 <!-- ──────────────────────────  SECTION · FOCUS  ────────────────────────── -->
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:8E2DE2,100:00C9FF&height=2&width=100%&section=header" alt="divider"/>
+---
 
 ### &nbsp; `~ current focus`
 
@@ -84,7 +84,7 @@ RAG architecture, prompt design, FastAPI + React, deploying LLM apps to prod.
 <br/>
 
 <!-- ──────────────────────────  SECTION · ARSENAL  ──────────────────────── -->
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:8E2DE2,100:00C9FF&height=2&width=100%&section=header" alt="divider"/>
+---
 
 ### &nbsp; `~ tech arsenal`
 
@@ -112,7 +112,7 @@ RAG architecture, prompt design, FastAPI + React, deploying LLM apps to prod.
 <br/>
 
 <!-- ──────────────────────────  SECTION · EXPERIENCE  ───────────────────── -->
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:8E2DE2,100:00C9FF&height=2&width=100%&section=header" alt="divider"/>
+---
 
 ### &nbsp; `~ experience`
 
@@ -133,7 +133,7 @@ RAG architecture, prompt design, FastAPI + React, deploying LLM apps to prod.
 <br/>
 
 <!-- ──────────────────────────  SECTION · CERTIFICATIONS  ───────────────── -->
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:8E2DE2,100:00C9FF&height=2&width=100%&section=header" alt="divider"/>
+---
 
 ### &nbsp; `~ certifications` <sub>— Google GenAI Academy</sub>
 
@@ -150,7 +150,7 @@ RAG architecture, prompt design, FastAPI + React, deploying LLM apps to prod.
 <br/>
 
 <!-- ──────────────────────────  SECTION · STATS  ────────────────────────── -->
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:8E2DE2,100:00C9FF&height=2&width=100%&section=header" alt="divider"/>
+---
 
 ### &nbsp; `~ github stats`
 
@@ -168,24 +168,11 @@ RAG architecture, prompt design, FastAPI + React, deploying LLM apps to prod.
 <br/>
 
 <!-- ──────────────────────────  SECTION · ACTIVITY  ─────────────────────── -->
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:8E2DE2,100:00C9FF&height=2&width=100%&section=header" alt="divider"/>
+---
 
 ### &nbsp; `~ contribution pulse`
 
 [![activity graph](https://github-readme-activity-graph.vercel.app/graph?username=karnikkhanwilkar&bg_color=0D1117&color=8E2DE2&line=00C9FF&point=ffffff&area=true&hide_border=true)](https://github.com/karnikkhanwilkar)
-
-<br/>
-
-<!-- ──────────────────────────  SECTION · TROPHIES  ─────────────────────── -->
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:8E2DE2,100:00C9FF&height=2&width=100%&section=header" alt="divider"/>
-
-### &nbsp; `~ trophy case`
-
-<div align="center">
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=karnikkhanwilkar&theme=radical&no-frame=true&no-bg=true&margin-w=4&column=7)](https://github.com/ryo-ma/github-profile-trophy)
-
-</div>
 
 <br/>
 
@@ -195,7 +182,7 @@ RAG architecture, prompt design, FastAPI + React, deploying LLM apps to prod.
    Replace REPO_NAME with the real repository slugs from your GitHub, then
    uncomment the block. These cards auto-update with stars, forks & language.
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:8E2DE2,100:00C9FF&height=2&width=100%&section=header" alt="divider"/>
+---
 
 ### &nbsp; `~ featured projects`
 
@@ -212,7 +199,7 @@ RAG architecture, prompt design, FastAPI + React, deploying LLM apps to prod.
 -->
 
 <!-- ──────────────────────────  SECTION · CONNECT  ──────────────────────── -->
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:8E2DE2,100:00C9FF&height=2&width=100%&section=header" alt="divider"/>
+---
 
 <div align="center">
 
