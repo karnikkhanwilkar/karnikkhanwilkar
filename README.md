@@ -5,7 +5,7 @@
 
 <!-- ──────────────────────────  HERO BANNER  ────────────────────────────── -->
 
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:8E2DE2,40:4A00E0,100:00C9FF&height=240&section=header&text=Karnik%20Khanwilkar&fontSize=54&fontColor=ffffff&animation=fadeIn&fontAlignY=34&desc=GenAI%20%26%20Full-Stack%20Developer%20%7C%20LLM%20Applications%20%7C%20RAG%20Systems&descAlignY=52&descSize=18" alt="header"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:8E2DE2,40:4A00E0,100:00C9FF&height=240&section=header&text=Karnik%20Khanwilkar&fontSize=54&fontColor=ffffff&animation=fadeIn&fontAlignY=34&desc=GenAI%20%26%20Full-Stack%20Developer%20%7C%20LLM%20Applications%20%7C%20RAG%20Systems&descAlignY=52&descSize=18"/>
 </a>
 
 <!-- ──────────────────────────  TYPING SVG  ─────────────────────────────── -->
