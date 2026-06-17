@@ -1,242 +1,196 @@
 <div align="center">
 
-# 🎮 KARNIKDEX v4.0
+```
+╔═══════════════════════════════════════════════════════════════════════════╗
+║                                                                           ║
+║     ██╗  ██╗ █████╗ ██████╗ ███╗   ██╗██╗██╗  ██╗                       ║
+║     ██║ ██╔╝██╔══██╗██╔══██╗████╗  ██║██║██║ ██╔╝                       ║
+║     █████╔╝ ███████║██████╔╝██╔██╗ ██║██║█████╔╝                        ║
+║     ██╔═██╗ ██╔══██║██╔══██╗██║╚██╗██║██║██╔═██╗                        ║
+║     ██║  ██╗██║  ██║██║  ██║██║ ╚████║██║██║  ██╗                       ║
+║     ╚═╝  ╚═╝╚═╝  ╚═╝╚═╝  ╚═╝╚═╝  ╚═══╝╚═╝╚═╝  ╚═╝                       ║
+║                                                                           ║
+╚═══════════════════════════════════════════════════════════════════════════╝
+```
 
-<img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=12&pause=1000&center=true&width=700&lines=Scanning+Trainer+Data...;Trainer+Found!;Gen+AI+Developer;Full+Stack+Developer;Building+the+Future+with+AI" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&size=20&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&width=600&lines=Developer;AI%2FML+Developer+Class;B.Tech+CSE+(AI+%26+ML);Building+The+Future+With+Code" alt="Typing SVG" />
+
+[![INSERT COIN](https://img.shields.io/badge/INSERT_COIN_TO_START-FFD700?style=for-the-badge&labelColor=000000)](#)
+
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="Waving Hand" width="60" />
 
 </div>
 
 ---
 
-```txt
-╔═══════════════════════════════════════════════╗
-║                 TRAINER CARD                 ║
-╠═══════════════════════════════════════════════╣
-║ Trainer Name : Karnik Khanwilkar             ║
-║ Region       : India                          ║
-║ Class        : Gen AI Developer               ║
-║ Guild        : GiryoTech                      ║
-║ Level        : 99                             ║
-║ Status       : Online                         ║
-║ Badge Count  : 08                             ║
-╚═══════════════════════════════════════════════╝
-```
-
-# 📖 POKEDEX ENTRY
-
-```txt
-No. 0001
-
-Name: Karnik
-
-Species:
-AI Engineer Pokémon
-
-Type:
-🤖 AI
-⚡ Full Stack
-
-Ability:
-• Prompt Engineering
-• LLM Development
-• Rapid Learning
-
-Hidden Ability:
-• Solves Bugs Under Pressure
-
-Description:
-A rare developer Pokémon known for building
-AI applications, full-stack products, and
-turning coffee into code.
-```
-
----
-
-# 🎯 BASE STATS
-
-```txt
-HP             ████████████████████ 100
-Attack         ██████████████████░░ 90
-Defense        ████████████████░░░░ 80
-Speed          ██████████████████░░ 90
-Intelligence   ████████████████████ 100
-Creativity     ███████████████████░ 95
-```
-
----
-
-# 🎒 BAG
-
-### Key Items
-
-```txt
-🧪 Python
-⚡ JavaScript
-⚔ TypeScript
-🛡 React
-🎯 Node.js
-📦 MongoDB
-☁ Google Cloud
-🤖 Vertex AI
-🔮 Gemini API
-🧠 LangChain
-```
-
-### Rare Items
-
-```txt
-✨ Problem Solving
-✨ System Design
-✨ Machine Learning
-✨ API Development
-✨ UI/UX Design
-```
-
----
-
-# ⚔ ACTIVE PARTY
-
-```txt
-┌─────────────────────────────┐
-│ PIKA-PYTHON        Lv.100   │
-│ Type: AI                   │
-│ HP: ████████████████████    │
-└─────────────────────────────┘
-
-┌─────────────────────────────┐
-│ REACTCHU           Lv.95    │
-│ Type: Frontend             │
-│ HP: ██████████████████      │
-└─────────────────────────────┘
-
-┌─────────────────────────────┐
-│ NODESAUR           Lv.92    │
-│ Type: Backend              │
-│ HP: █████████████████       │
-└─────────────────────────────┘
-
-┌─────────────────────────────┐
-│ GEMINIMON          Lv.99    │
-│ Type: Generative AI         │
-│ HP: ████████████████████    │
-└─────────────────────────────┘
-```
-
----
-
-# 🏆 GYM BADGES
-
-```txt
-🏅 Generative AI with LLMs
-🏅 Google AI-ML Internship
-🏅 Android Developer Internship
-🏅 Intelligent Automation Internship
-🏅 FedEx Smart Hackathon Finalist
-🏅 Full Stack Development
-🏅 Machine Learning
-🏅 Gen AI Development
-```
-
----
-
-# 🌎 EXPLORED REGIONS
-
-```txt
-✓ Machine Learning Forest
-✓ Full Stack City
-✓ Cloud Mountain
-✓ AI Research Lab
-✓ Data Science Cave
-✓ Generative AI Tower
-
-Current Location:
-► Agentic AI League
-```
-
----
-
-# ⚡ EVOLUTION CHAIN
-
-```txt
-Coding Student
-      │
-      ▼
-AI/ML Learner
-      │
-      ▼
-Full Stack Developer
-      │
-      ▼
-Gen AI Developer
-      │
-      ▼
-???????????????????
-```
-
----
-
-# 📊 TRAINER STATS
+## 🎯 CHARACTER STATS
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=karnikkhanwilkar&show_icons=true&theme=radical" />
+<img src="https://readme-typing-svg.herokuapp.com?font=VT323&size=18&duration=2000&pause=500&color=38BDAE&center=true&vCenter=true&multiline=true&width=500&height=120&lines=HP%3A+%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%91%E2%96%91%E2%96%91%E2%96%91++Learning+Mode%3A+ON;MP%3A+%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%91%E2%96%91%E2%96%91%E2%96%91%E2%96%91%E2%96%91++Creativity%3A+High;Status%3A+Actively+seeking+new+challenges" alt="Character Stats" />
 
-<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=karnikkhanwilkar&theme=radical" />
+</div>
+
+```
+╔══════════════════════════════════════════════════════════════╗
+║  STR: Problem Solving      DEX: Quick Learner               ║
+║  INT: AI/ML Focus          LUK: Project Builder             ║
+║  Guild: Computer Science Engineering                        ║
+║  Current Zone: AI & Web Development Realm                   ║
+╚══════════════════════════════════════════════════════════════╝
+```
+
+<div align="center">
+
+<img src="https://readme-typing-svg.herokuapp.com?font=VT323&size=16&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&multiline=true&width=600&height=80&lines=MAIN+QUEST%3A+Building+AI-powered+solutions;DAILY+QUESTS%3A+Learning+%7C+Coding+%7C+Experimenting;HIDDEN+SKILL%3A+Turning+groceries+into+masterpieces" alt="Quests" />
 
 </div>
 
 ---
 
-# 🎮 QUEST LOG
+## 🗡️ SKILL TREE
 
-```txt
-[✓] Build AI Applications
-[✓] Learn LLM Architecture
-[✓] Create Full Stack Projects
-[✓] Participate in Hackathons
-[✓] Deploy Production Systems
-[ ] Become AI Architect
-[ ] Build a Startup
+```
+                     ╔════════════════╗
+                     ║   PROGRAMMING  ║
+                     ╚════════════════╝
+                            ▼
+        ┌───────────────────┼───────────────────┐
+        ▼                   ▼                   ▼
+    [Python]          [JavaScript]        [TypeScript]
+    ████████          ███████░░░          ██████░░░░
+     Lvl 8              Lvl 7              Lvl 6
+
+                     ╔════════════════╗
+                     ║    AI & ML     ║
+                     ╚════════════════╝
+                            ▼
+        ┌───────────────────┼───────────────────┐
+        ▼                   ▼                   ▼
+[Deep Learning]    [Computer Vision]          [NLP]
+  ██████░░░░         █████░░░░░            ████░░░░░░
+   Lvl 6              Lvl 5                 Lvl 4
+
+                     ╔════════════════╗
+                     ║   WEB & CLOUD  ║
+                     ╚════════════════╝
+                            ▼
+        ┌───────────────────┼───────────────────┐
+        ▼                   ▼                   ▼
+    [FastAPI]          [React/Next]         [Tailwind]
+    ███████░░░          ██████░░░░           ███████░░░
+     Lvl 7               Lvl 6                Lvl 7
+
+                     ╔════════════════╗
+                     ║     DEVOPS     ║
+                     ╚════════════════╝
+                            ▼
+                ┌───────────┴───────────┐
+                ▼                       ▼
+            [Docker]              [Git & GitHub]
+            █████░░░░░             ████████░░
+             Lvl 5                  Lvl 8
+```
+
+### 🎮 Equipment Loadout
+
+<div align="center">
+
+**Languages**  
+<img src="https://skillicons.dev/icons?i=python,js&theme=dark" alt="Languages" />
+
+**AI/ML Frameworks**  
+<img src="https://skillicons.dev/icons?i=tensorflow,pytorch,opencv&theme=dark" alt="AI/ML" />
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+
+**Web Development**  
+<img src="https://skillicons.dev/icons?i=react,nextjs,fastapi,tailwind,supabase,firbase&theme=dark" alt="Web Dev" />
+
+**DevOps & Tools**  
+<img src="https://skillicons.dev/icons?i=docker,git,github,vscode&theme=dark" alt="DevOps" />
+
+</div>
+
+
+## 🏆 ACHIEVEMENT LOG
+
+```
+╔═══════════════════════════════════════════════════════════════════╗
+║                                                                   ║
+║  🎯 [COMPLETED] Built multiple web apps with real use cases       ║
+║  🎯 [COMPLETED] Developed ML models from concept to deployment    ║
+║  🎯 [COMPLETED] Participated in hackathons and team projects      ║
+║                                                                   ║
+║  ⏳ [IN PROGRESS] Mastering advanced ML architectures             ║
+║  ⏳ [IN PROGRESS] Contributing to open source projects            ║
+║  ⏳ [IN PROGRESS] Building production-ready AI systems            ║
+║                                                                   ║
+║  🔒 [LOCKED] Launch a SaaS product                                ║
+║  🔒 [LOCKED] Publish research paper                               ║
+║  🔒 [LOCKED] Speak at a tech conference                           ║
+║                                                                   ║
+╚═══════════════════════════════════════════════════════════════════╝
 ```
 
 ---
 
-# 🔬 LEGENDARY POKEMON PROJECTS
+## 🎮 ACTIVE QUESTS
 
-```txt
-⭐ Dynamic Route Optimization System
-⭐ Fake News Detection using LSTM
-⭐ Smart Attendance System
-⭐ Habit Tracker (MERN)
-⭐ Recipe Recommendation AI
-⭐ Online Complaint Portal
-⭐ Agentic AI Applications
+```
+┌─────────────────────────────────────────────────────────┐
+│ QUEST LOG                                Priority: HIGH │
+├─────────────────────────────────────────────────────────┤
+│                                                          │
+│ → Exploring Deep Learning for Computer Vision           │
+│ → Building scalable web applications with FastAPI       │
+│ → Learning cloud infrastructure and deployment          │
+│ → Experimenting with NLP and generative AI              │
+│ → Automating workflows with Python scripts              │
+│                                                          │
+└─────────────────────────────────────────────────────────┘
 ```
 
 ---
 
-# 📡 TRAINER LINK
+## 💬 MULTIPLAYER MODE
 
-Portfolio:
-https://karnikkhanwilkar.vercel.app
+<div align="center">
 
-GitHub:
-https://github.com/karnikkhanwilkar
+<img src="https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&size=14&duration=3000&pause=1000&color=BF91F3&center=true&vCenter=true&width=500&lines=Looking+for+party+members!;Let's+collaborate+on+AI+projects;Or+just+share+knowledge+%F0%9F%9A%80" alt="Multiplayer" />
 
-LinkedIn:
-Add your LinkedIn URL
+<br><br>
+
+<a href="https://www.linkedin.com/in/karnik-khanwilkar/">
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=000000" alt="LinkedIn" />
+</a>
+<a href="https://github.com/karnikkhanwilkar">
+  <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=000000" alt="GitHub" />
+</a>
+<a href="mailto:karnikkhanwilkar@gmail.com">
+  <img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=000000" alt="Email" />
+</a>
+
+</div>
 
 ---
 
-```txt
-═══════════════════════════════
+<div align="center">
 
-TRAINER DATA SAVED!
-
-Thank you for viewing
-KARNIKDEX v4.0
-
-Press ⭐ to continue.
-
-═══════════════════════════════
 ```
+┌──────────────────────────────────────────────────────────────┐
+│                                                              │
+│  "Code with purpose. Learn with curiosity. Build with       │
+│   passion. Every line is a step forward."                   │
+│                                                              │
+└──────────────────────────────────────────────────────────────┘
+```
+
+``` 
+              Press ⭐ to save progress!
+```
+
+![Profile Views](https://komarev.com/ghpvc/?username=karnikkhanwilkar&color=70a5fd&style=flat-square&label=Profile+Views)
+
+**Thanks for visiting my profile!**
+
+</div>
