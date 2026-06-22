@@ -8,7 +8,7 @@
 <!-- ──────────────────────────  TYPING SVG  ─────────────────────────────── -->
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=23&duration=2800&pause=900&color=8E2DE2&center=true&vCenter=true&width=880&height=55&lines=GenAI+Developer+at+GiryoTech;Designing+RAG+systems+and+LLM+pipelines+for+production;Google+GenAI+Academy+%7C+Vertex+AI+%7C+Gemini;Full-Stack+with+FastAPI+%2B+React+%2B+Python;Turning+ideas+into+real-world+impact)](https://karnikkhanwilkar.vercel.app/)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=23&duration=2800&pause=900&color=8E2DE2&center=true&vCenter=true&width=880&height=55&lines=Designing+RAG+systems+and+LLM+pipelines+for+production;Google+GenAI+Academy+%7C+Vertex+AI+%7C+Gemini;Full-Stack+with+FastAPI+%2B+React+%2B+Python;Turning+ideas+into+real-world+impact)](https://karnikkhanwilkar.vercel.app/)
 
 <!-- ──────────────────────────  PROFILE BADGES  ─────────────────────────── -->
 <a href="https://karnikkhanwilkar.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-Visit-8E2DE2?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/></a>
@@ -29,7 +29,7 @@
 class Karnik:
     def __init__(self):
         self.name       = "Karnik Khanwilkar"
-        self.role       = "GenAI & Full-Stack Developer @ GiryoTech"
+        self.role       = "GenAI & Full-Stack Developer"
         self.education  = "B.Tech CSE — ITM University, Gwalior (2022–2026)"
         self.based_in   = "Greater Indore Area, India"
         self.building   = ["RAG systems", "LLM pipelines", "Scalable AI apps"]
@@ -45,7 +45,7 @@ class Karnik:
 
 > Curious and driven — I thrive on solving meaningful challenges through creativity,
 > collaboration, and continuous learning. From leading teams at hackathons to shipping
-> production GenAI at GiryoTech, I build scalable, intelligent applications powered by LLMs.
+> I build scalable, intelligent applications powered by LLMs.
 
 <br/>
 
