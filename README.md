@@ -1,214 +1,187 @@
-<!-- ════════════════════════════════════════════════════════════════════════ -->
-<!--                          KARNIK KHANWILKAR                               -->
-<!--      GitHub Profile README · GenAI & Full-Stack Developer · v3.0          -->
-<!-- ════════════════════════════════════════════════════════════════════════ -->
-
-<!-- ──────────────────────────  HERO BANNER  ────────────────────────────── -->
-
-<!-- ──────────────────────────  TYPING SVG  ─────────────────────────────── -->
-<div align="center">
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=23&duration=2800&pause=900&color=8E2DE2&center=true&vCenter=true&width=880&height=55&lines=Designing+RAG+systems+and+LLM+pipelines+for+production;Google+GenAI+Academy+%7C+Vertex+AI+%7C+Gemini;Full-Stack+with+FastAPI+%2B+React+%2B+Python;Turning+ideas+into+real-world+impact)](https://karnikkhanwilkar.vercel.app/)
-
-<!-- ──────────────────────────  PROFILE BADGES  ─────────────────────────── -->
-<a href="https://karnikkhanwilkar.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-Visit-8E2DE2?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/></a>
-<a href="https://www.linkedin.com/in/karnikkhanwilkar"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-<a href="mailto:karnikkhanwilkar@gmail.com"><img src="https://img.shields.io/badge/Email-Reach%20out-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>
-<img src="https://komarev.com/ghpvc/?username=karnikkhanwilkar&style=for-the-badge&color=8E2DE2&label=PROFILE+VIEWS" alt="views"/>
-
-</div>
-
-<br/>
-
-<!-- ──────────────────────────  SECTION · WHOAMI  ───────────────────────── -->
----
-
-### &nbsp; `~ whoami`
-
-```python
-class Karnik:
-    def __init__(self):
-        self.name       = "Karnik Khanwilkar"
-        self.role       = "GenAI & Full-Stack Developer"
-        self.education  = "B.Tech CSE — ITM University, Gwalior (2022–2026)"
-        self.based_in   = "Greater Indore Area, India"
-        self.building   = ["RAG systems", "LLM pipelines", "Scalable AI apps"]
-        self.top_skills = ["Orchestration", "Fine-Tuning", "AWS SageMaker"]
-        self.core_stack = ["Python", "FastAPI", "React", "Next.js", "GenAI"]
-
-    def mission(self) -> str:
-        return "Make ideas come alive and create real-world impact."
-
-    def open_to_collab(self) -> bool:
-        return True   # GenAI / LLM projects -> karnikkhanwilkar@gmail.com
-```
-
-> Curious and driven — I thrive on solving meaningful challenges through creativity,
-> collaboration, and continuous learning. From leading teams at hackathons to shipping
-> I build scalable, intelligent applications powered by LLMs.
-
-<br/>
-
-<!-- ──────────────────────────  SECTION · FOCUS  ────────────────────────── -->
----
-
-### &nbsp; `~ current focus`
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-**▹ Now building**
-End-to-end GenAI pipelines, RAG retrieval systems, and LLM performance
-optimization for real-world production at **GiryoTech**.
-
-**▹ Exploring**
-LLM **orchestration**, **fine-tuning** strategies, and **AWS SageMaker** at scale.
-
-</td>
-<td width="50%" valign="top">
-
-**▹ Backed by**
-**Google GenAI Academy** — Vertex AI, Gemini, Imagen & Multimodal RAG.
-
-**▹ Ask me about**
-RAG architecture, prompt design, FastAPI + React, deploying LLM apps to prod.
-
-</td>
-</tr>
-</table>
-
-<br/>
-
-<!-- ──────────────────────────  SECTION · ARSENAL  ──────────────────────── -->
----
-
-### &nbsp; `~ tech arsenal`
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!--                    ▓▓▓  INSERT COIN  ▓▓▓                        -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
 
 <div align="center">
 
-**Generative AI / LLM**
-
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
-![Gemini](https://img.shields.io/badge/Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white)
-![Vertex AI](https://img.shields.io/badge/Vertex_AI-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
-![Hugging Face](https://img.shields.io/badge/Hugging_Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
-![RAG](https://img.shields.io/badge/RAG_Systems-FF4154?style=for-the-badge&logo=databricks&logoColor=white)
-
-**Languages · Frameworks · Cloud · Tools**
-
-<img src="https://skillicons.dev/icons?i=python,js,ts,fastapi,react,nextjs,tailwind,nodejs&theme=dark" alt="stack 1"/>
-<br/>
-<img src="https://skillicons.dev/icons?i=aws,gcp,docker,git,github,supabase,firebase,vscode&theme=dark" alt="stack 2"/>
-<br/>
-<img src="https://skillicons.dev/icons?i=tensorflow,pytorch,opencv,sklearn,streamlit,postgres,mongodb,vercel&theme=dark" alt="stack 3"/>
-
-</div>
+<img src="https://raw.githubusercontent.com/karnikkhanwilkar/karnikkhanwilkar/main/assets/hero.svg" width="100%" alt="Press Start"/>
 
 <br/>
 
-<!-- ──────────────────────────  SECTION · EXPERIENCE  ───────────────────── -->
----
-
-### &nbsp; `~ experience`
-
-```text
-  GiryoTech                          Gen AI Developer        Apr 2026 — Present · Ahmedabad
-  ───────────────────────────────────────────────────────────────────────────────────────
-  Building scalable GenAI apps · RAG retrieval · LLM pipelines optimized for production.
-
-  Rishishwar Industry Pvt. Ltd.      Full Stack Developer    May 2025 — Jul 2025 · Gwalior
-  ───────────────────────────────────────────────────────────────────────────────────────
-  Full-stack web development across frontend and backend.
-
-  EduSkills Foundation               Intelligence Automation Sep 2023 — Nov 2023 · MP, India
-  ───────────────────────────────────────────────────────────────────────────────────────
-  Intelligent automation and process workflows.
-```
+<img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=20&pause=1000&color=FFD60A&center=true&vCenter=true&width=760&height=60&lines=KARNIK+KHANWILKAR;GENAI+%2B+FULL-STACK+DEVELOPER;LEVEL+99+%E2%80%94+BUILDING+AI+SYSTEMS" alt="title"/>
 
 <br/>
 
-<!-- ──────────────────────────  SECTION · CERTIFICATIONS  ───────────────── -->
----
-
-### &nbsp; `~ certifications` <sub>— Google GenAI Academy</sub>
-
-<div align="center">
-
-![Vertex AI](https://img.shields.io/badge/Prompt_Design_in_Vertex_AI-4285F4?style=flat-square&logo=googlecloud&logoColor=white)
-![Gemini Imagen](https://img.shields.io/badge/Real--World_AI_with_Gemini_and_Imagen-8E75B2?style=flat-square&logo=googlegemini&logoColor=white)
-![Streamlit](https://img.shields.io/badge/GenAI_Apps_with_Gemini_and_Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
-![Multimodal RAG](https://img.shields.io/badge/Gemini_Multimodality_and_Multimodal_RAG-34A853?style=flat-square&logo=google&logoColor=white)
-![LLMs](https://img.shields.io/badge/Generative_AI_with_LLMs-412991?style=flat-square&logo=openai&logoColor=white)
-
-</div>
-
-<br/>
-
-<!-- ──────────────────────────  SECTION · STATS  ────────────────────────── -->
----
-
-### &nbsp; `~ github stats`
-
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=karnikkhanwilkar&show_icons=true&count_private=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=8E2DE2&icon_color=00C9FF&text_color=c9d1d9&cache_seconds=86400" alt="stats"/>
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=karnikkhanwilkar&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=8E2DE2&text_color=c9d1d9&langs_count=8" alt="top langs"/>
+<img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=9&pause=1500&color=8A7FB5&center=true&vCenter=true&width=760&lines=BUILDING+END-TO-END+GENAI+PIPELINES;RAG+SYSTEMS+%2B+LLM+ORCHESTRATION;FINE-TUNING+%2B+AWS+SAGEMAKER+DEPLOYMENT;TURNING+INTELLIGENT+IDEAS+INTO+REAL+IMPACT" alt="subtitle"/>
 
 <br/><br/>
 
-<img width="495" src="https://streak-stats.demolab.com?user=karnikkhanwilkar&theme=radical&hide_border=true&background=0D1117&ring=8E2DE2&fire=00C9FF&currStreakLabel=8E2DE2" alt="streak"/>
+<a href="https://karnikkhanwilkar.vercel.app"><img src="https://img.shields.io/badge/-PORTFOLIO-0d0221?style=flat-square&labelColor=e43f5a&logo=vercel&logoColor=white" alt="Portfolio"/></a>
+<a href="https://linkedin.com/in/karnikkhanwilkar"><img src="https://img.shields.io/badge/-LINKEDIN-0d0221?style=flat-square&labelColor=3a86ff&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+<a href="mailto:karnikkhanwilkar@gmail.com"><img src="https://img.shields.io/badge/-EMAIL-0d0221?style=flat-square&labelColor=ffd60a&logo=gmail&logoColor=black" alt="Email"/></a>
+<img src="https://komarev.com/ghpvc/?username=karnikkhanwilkar&style=flat-square&color=06d6a0&label=PLAYERS+MET" alt="views"/>
 
 </div>
 
 <br/>
 
-<!-- ──────────────────────────  SECTION · ACTIVITY  ─────────────────────── -->
----
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!--                    ▓▓▓  CHARACTER SHEET  ▓▓▓                    -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
 
-### &nbsp; `~ contribution pulse`
+## ▚ CHARACTER SHEET
 
-[![activity graph](https://github-readme-activity-graph.vercel.app/graph?username=karnikkhanwilkar&bg_color=0D1117&color=8E2DE2&line=00C9FF&point=ffffff&area=true&hide_border=true)](https://github.com/karnikkhanwilkar)
+```text
+╔══════════════════════════════════════════════════╗
+║  PLAYER : KARNIK KHANWILKAR          LV. 99        ║
+╠══════════════════════════════════════════════════╣
+║  CLASS  : GenAI // Full-Stack Developer            ║
+║  GUILD  : GiryoTech                                ║
+║  REGION : Greater Indore, India                    ║
+║  ORIGIN : B.Tech CSE — ITM University (2022-2026)  ║
+╠══════════════════════════════════════════════════╣
+║  PYTHON        ██████████████████░░   95           ║
+║  GEN-AI / LLM  █████████████████░░░   90           ║
+║  FULL-STACK    ████████████████░░░░   85           ║
+║  CLOUD / MLOPS ███████████████░░░░░   80           ║
+║  DATA / ML     ███████████████░░░░░   78           ║
+╠══════════════════════════════════════════════════╣
+║  QUEST  : Ship reliable, scalable GenAI systems    ║
+║  STATUS : ◉ OPEN TO CO-OP — GenAI / LLM PARTIES    ║
+╚══════════════════════════════════════════════════╝
+```
 
 <br/>
 
-<!-- ──────────────────────────  SECTION · FEATURED  ─────────────────────── -->
-<!--
-   FEATURED PROJECTS — fill in your repo names to light these up.
-   Replace REPO_NAME with the real repository slugs from your GitHub, then
-   uncomment the block. These cards auto-update with stars, forks & language.
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!--                      ▓▓▓  INVENTORY  ▓▓▓                        -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
 
----
+## ▚ INVENTORY — EQUIPPED SKILLS
 
-### &nbsp; `~ featured projects`
+`◈ ARCANE ARTS — Generative AI / LLM`
+
+![LangChain](https://img.shields.io/badge/LangChain-0d0221?style=flat-square&logo=langchain&logoColor=06d6a0)
+![OpenAI](https://img.shields.io/badge/OpenAI-0d0221?style=flat-square&logo=openai&logoColor=06d6a0)
+![Gemini](https://img.shields.io/badge/Gemini-0d0221?style=flat-square&logo=googlegemini&logoColor=06d6a0)
+![Vertex AI](https://img.shields.io/badge/Vertex_AI-0d0221?style=flat-square&logo=googlecloud&logoColor=06d6a0)
+![Hugging Face](https://img.shields.io/badge/Hugging_Face-0d0221?style=flat-square&logo=huggingface&logoColor=06d6a0)
+![RAG](https://img.shields.io/badge/RAG_Systems-0d0221?style=flat-square&logo=databricks&logoColor=06d6a0)
+
+`◈ WEAPONS — Languages & Frameworks`
+
+![Python](https://img.shields.io/badge/Python-0d0221?style=flat-square&logo=python&logoColor=ffd60a)
+![TypeScript](https://img.shields.io/badge/TypeScript-0d0221?style=flat-square&logo=typescript&logoColor=ffd60a)
+![JavaScript](https://img.shields.io/badge/JavaScript-0d0221?style=flat-square&logo=javascript&logoColor=ffd60a)
+![FastAPI](https://img.shields.io/badge/FastAPI-0d0221?style=flat-square&logo=fastapi&logoColor=ffd60a)
+![React](https://img.shields.io/badge/React-0d0221?style=flat-square&logo=react&logoColor=ffd60a)
+![Next.js](https://img.shields.io/badge/Next.js-0d0221?style=flat-square&logo=nextdotjs&logoColor=ffd60a)
+![Node.js](https://img.shields.io/badge/Node.js-0d0221?style=flat-square&logo=nodedotjs&logoColor=ffd60a)
+![Tailwind](https://img.shields.io/badge/Tailwind-0d0221?style=flat-square&logo=tailwindcss&logoColor=ffd60a)
+
+`◈ RELICS — Machine Learning & Data`
+
+![TensorFlow](https://img.shields.io/badge/TensorFlow-0d0221?style=flat-square&logo=tensorflow&logoColor=e43f5a)
+![PyTorch](https://img.shields.io/badge/PyTorch-0d0221?style=flat-square&logo=pytorch&logoColor=e43f5a)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-0d0221?style=flat-square&logo=scikitlearn&logoColor=e43f5a)
+![OpenCV](https://img.shields.io/badge/OpenCV-0d0221?style=flat-square&logo=opencv&logoColor=e43f5a)
+![Streamlit](https://img.shields.io/badge/Streamlit-0d0221?style=flat-square&logo=streamlit&logoColor=e43f5a)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0d0221?style=flat-square&logo=postgresql&logoColor=e43f5a)
+![MongoDB](https://img.shields.io/badge/MongoDB-0d0221?style=flat-square&logo=mongodb&logoColor=e43f5a)
+
+`◈ MOUNTS — Cloud & DevOps`
+
+![AWS](https://img.shields.io/badge/AWS-0d0221?style=flat-square&logo=amazonwebservices&logoColor=3a86ff)
+![GCP](https://img.shields.io/badge/GCP-0d0221?style=flat-square&logo=googlecloud&logoColor=3a86ff)
+![Docker](https://img.shields.io/badge/Docker-0d0221?style=flat-square&logo=docker&logoColor=3a86ff)
+![Git](https://img.shields.io/badge/Git-0d0221?style=flat-square&logo=git&logoColor=3a86ff)
+![Supabase](https://img.shields.io/badge/Supabase-0d0221?style=flat-square&logo=supabase&logoColor=3a86ff)
+![Firebase](https://img.shields.io/badge/Firebase-0d0221?style=flat-square&logo=firebase&logoColor=3a86ff)
+![Vercel](https://img.shields.io/badge/Vercel-0d0221?style=flat-square&logo=vercel&logoColor=3a86ff)
+
+<br/>
+
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!--                      ▓▓▓  QUEST LOG  ▓▓▓                        -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
+
+## ▚ QUEST LOG — CAMPAIGN HISTORY
+
+| ✦ | QUEST | GUILD | DATES |
+|---|-------|-------|-------|
+| ◉ | **GenAI Developer** | GiryoTech | Apr 2026 — Present |
+| ✔ | **Full-Stack Developer** | Rishishwar Industry | May — Jul 2025 |
+| ✔ | **Intelligent Automation Specialist** | EduSkills Foundation | Sep — Nov 2023 |
+
+<br/>
+
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!--                    ▓▓▓  ACHIEVEMENTS  ▓▓▓                       -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
+
+## ▚ ACHIEVEMENTS UNLOCKED
+
+```text
+★ GOOGLE GENAI ACADEMY  ─────────────────────────────
+  [✔] Prompt Design in Vertex AI
+  [✔] Real-World Apps with Gemini & Imagen
+  [✔] Build GenAI Apps with Streamlit
+  [✔] Multimodal RAG Systems
+  [✔] Generative AI with Large Language Models
+```
 
 <div align="center">
 
-<a href="https://github.com/karnikkhanwilkar/REPO_NAME">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=karnikkhanwilkar&repo=REPO_NAME&theme=radical&hide_border=true&bg_color=0D1117&title_color=8E2DE2&icon_color=00C9FF" alt="repo"/>
-</a>
-<a href="https://github.com/karnikkhanwilkar/REPO_NAME_2">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=karnikkhanwilkar&repo=REPO_NAME_2&theme=radical&hide_border=true&bg_color=0D1117&title_color=8E2DE2&icon_color=00C9FF" alt="repo"/>
-</a>
+<img src="https://github-profile-trophy.vercel.app/?username=karnikkhanwilkar&theme=matrix&no-frame=true&no-bg=true&margin-w=4&row=1&column=7" alt="trophies"/>
 
 </div>
--->
 
-<!-- ──────────────────────────  SECTION · CONNECT  ──────────────────────── -->
----
+<br/>
+
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!--                      ▓▓▓  HIGH SCORES  ▓▓▓                      -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
+
+## ▚ HIGH SCORES
 
 <div align="center">
 
-### &nbsp; `~ let's build something intelligent`
+<img height="175em" src="https://github-readme-stats.vercel.app/api?username=karnikkhanwilkar&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d0221&title_color=ffd60a&icon_color=e43f5a&text_color=8a7fb5&border_color=e43f5a" alt="stats"/>
+<img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=karnikkhanwilkar&layout=compact&langs_count=8&hide_border=true&bg_color=0d0221&title_color=ffd60a&text_color=8a7fb5&border_color=e43f5a" alt="langs"/>
 
-Always open to collaborating on **GenAI / LLM** and **full-stack** projects.
+<br/><br/>
 
-<a href="https://karnikkhanwilkar.vercel.app/"><img src="https://img.shields.io/badge/See%20my%20work-Portfolio-8E2DE2?style=for-the-badge&logo=vercel&logoColor=white"/></a>
-<a href="mailto:karnikkhanwilkar@gmail.com"><img src="https://img.shields.io/badge/Reach%20out-Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-<a href="https://www.linkedin.com/in/karnikkhanwilkar"><img src="https://img.shields.io/badge/Connect-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=karnikkhanwilkar&hide_border=true&background=0d0221&stroke=e43f5a&ring=ffd60a&fire=e43f5a&currStreakLabel=ffd60a&sideLabels=8a7fb5&dates=8a7fb5&currStreakNum=f8f8f2&sideNums=f8f8f2" alt="streak"/>
 
 </div>
 
-<!-- ──────────────────────────  FOOTER  ─────────────────────────────────── -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00C9FF,60:4A00E0,100:8E2DE2&height=140&section=footer&text=Thanks%20for%20stopping%20by&fontSize=22&fontColor=ffffff&animation=twinkling&fontAlignY=70" alt="footer"/>
+<br/>
+
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!--                    ▓▓▓  BONUS STAGE  ▓▓▓                        -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
+
+## ▚ BONUS STAGE — THE SERPENT
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/karnikkhanwilkar/karnikkhanwilkar/output/github-contribution-grid-snake-dark.svg" alt="snake"/>
+
+</div>
+
+<br/>
+
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!--                        ▓▓▓  GAME OVER  ▓▓▓                      -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
+
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=14&pause=1000&color=FFD60A&center=true&vCenter=true&width=620&lines=CONTINUE%3F+PRESS+START;LET'S+BUILD+SOMETHING+INTELLIGENT" alt="continue"/>
+
+<br/>
+
+<a href="https://karnikkhanwilkar.vercel.app"><img src="https://img.shields.io/badge/-%E2%96%B6_ENTER_PORTFOLIO-0d0221?style=flat-square&labelColor=e43f5a&logo=react&logoColor=white" alt="portfolio"/></a>
+<a href="https://linkedin.com/in/karnikkhanwilkar"><img src="https://img.shields.io/badge/-%E2%96%B6_PARTY_UP_ON_LINKEDIN-0d0221?style=flat-square&labelColor=3a86ff&logo=linkedin&logoColor=white" alt="linkedin"/></a>
+
+</div>
