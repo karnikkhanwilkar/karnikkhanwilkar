@@ -1,0 +1,121 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 260" width="100%" role="img" aria-label="Retro pixel game hero scene">
+  <defs>
+    <linearGradient id="sky" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#160437"/>
+      <stop offset="55%" stop-color="#0d0221"/>
+      <stop offset="100%" stop-color="#1b0940"/>
+    </linearGradient>
+    <style>
+      text { font-family: 'Courier New', monospace; font-weight: 700; letter-spacing: 2px; }
+    </style>
+  </defs>
+
+  <!-- ===== SKY ===== -->
+  <rect x="0" y="0" width="800" height="260" fill="url(#sky)"/>
+
+  <!-- ===== STARS (twinkling) ===== -->
+  <g fill="#f8f8f2">
+    <rect x="60"  y="40" width="4" height="4"><animate attributeName="opacity" values="0.2;1;0.2" dur="1.6s" begin="0s"   repeatCount="indefinite"/></rect>
+    <rect x="140" y="70" width="4" height="4"><animate attributeName="opacity" values="0.2;1;0.2" dur="2.1s" begin="0.4s" repeatCount="indefinite"/></rect>
+    <rect x="230" y="30" width="4" height="4"><animate attributeName="opacity" values="0.2;1;0.2" dur="1.3s" begin="0.8s" repeatCount="indefinite"/></rect>
+    <rect x="320" y="90" width="4" height="4"><animate attributeName="opacity" values="0.2;1;0.2" dur="1.9s" begin="0.2s" repeatCount="indefinite"/></rect>
+    <rect x="470" y="50" width="4" height="4"><animate attributeName="opacity" values="0.2;1;0.2" dur="1.5s" begin="1.0s" repeatCount="indefinite"/></rect>
+    <rect x="560" y="35" width="4" height="4"><animate attributeName="opacity" values="0.2;1;0.2" dur="2.3s" begin="0.6s" repeatCount="indefinite"/></rect>
+    <rect x="650" y="80" width="4" height="4"><animate attributeName="opacity" values="0.2;1;0.2" dur="1.7s" begin="0.3s" repeatCount="indefinite"/></rect>
+    <rect x="720" y="45" width="4" height="4"><animate attributeName="opacity" values="0.2;1;0.2" dur="1.4s" begin="0.9s" repeatCount="indefinite"/></rect>
+    <rect x="400" y="55" width="4" height="4"><animate attributeName="opacity" values="0.2;1;0.2" dur="2.0s" begin="1.3s" repeatCount="indefinite"/></rect>
+  </g>
+
+  <!-- ===== PIXEL MOON ===== -->
+  <g fill="#ffd60a">
+    <rect x="690" y="24" width="40" height="40"/>
+    <rect x="682" y="32" width="8"  height="24"/>
+    <rect x="730" y="32" width="8"  height="24"/>
+  </g>
+  <g fill="#0d0221">
+    <rect x="700" y="34" width="8" height="8"/>
+    <rect x="716" y="48" width="6" height="6"/>
+  </g>
+
+  <!-- ===== DRIFTING CLOUD ===== -->
+  <g fill="#3a2b6b">
+    <animateTransform attributeName="transform" type="translate" from="-160 0" to="900 0" dur="22s" repeatCount="indefinite"/>
+    <rect x="0"  y="70" width="90" height="16"/>
+    <rect x="16" y="58" width="60" height="14"/>
+    <rect x="34" y="48" width="34" height="12"/>
+  </g>
+
+  <!-- ===== HUD: HP / XP ===== -->
+  <text x="24" y="34" font-size="12" fill="#06d6a0">HP</text>
+  <g>
+    <rect x="46" y="24" width="140" height="12" fill="#1b0940" stroke="#06d6a0" stroke-width="2"/>
+    <rect x="48" y="26" width="118" height="8" fill="#06d6a0"/>
+  </g>
+  <text x="24" y="54" font-size="12" fill="#3a86ff">XP</text>
+  <g>
+    <rect x="46" y="44" width="140" height="12" fill="#1b0940" stroke="#3a86ff" stroke-width="2"/>
+    <rect x="48" y="46" width="96" height="8" fill="#3a86ff">
+      <animate attributeName="width" values="40;120;40" dur="4s" repeatCount="indefinite"/>
+    </rect>
+  </g>
+
+  <!-- ===== GROUND ===== -->
+  <rect x="0" y="220" width="800" height="40" fill="#241b3a"/>
+  <g fill="#06d6a0">
+    <rect x="0"   y="216" width="800" height="6"/>
+  </g>
+  <g fill="#1a1330">
+    <rect x="20"  y="228" width="12" height="12"/>
+    <rect x="120" y="240" width="12" height="12"/>
+    <rect x="260" y="230" width="12" height="12"/>
+    <rect x="420" y="242" width="12" height="12"/>
+    <rect x="600" y="230" width="12" height="12"/>
+    <rect x="740" y="240" width="12" height="12"/>
+  </g>
+
+  <!-- ===== SPINNING COIN ===== -->
+  <g transform="translate(300,150)">
+    <animateTransform attributeName="transform" type="translate" values="300,150; 300,138; 300,150" dur="1.1s" repeatCount="indefinite"/>
+    <g>
+      <animateTransform attributeName="transform" type="scale" values="1 1; 0.15 1; 1 1" dur="1.2s" repeatCount="indefinite" additive="sum"/>
+      <rect x="-12" y="-12" width="24" height="24" fill="#ffd60a"/>
+      <rect x="-6"  y="-6"  width="12" height="12" fill="#e0a800"/>
+    </g>
+  </g>
+
+  <!-- ===== HERO SPRITE (bobbing) ===== -->
+  <g transform="translate(110,152)">
+    <animateTransform attributeName="transform" type="translate" values="110,152; 110,144; 110,152" dur="0.9s" repeatCount="indefinite"/>
+    <!-- helmet -->
+    <rect x="10" y="0"  width="40" height="10" fill="#e43f5a"/>
+    <rect x="10" y="10" width="10" height="10" fill="#e43f5a"/>
+    <rect x="40" y="10" width="10" height="10" fill="#e43f5a"/>
+    <!-- face -->
+    <rect x="20" y="10" width="20" height="10" fill="#f4b393"/>
+    <rect x="10" y="20" width="40" height="10" fill="#f4b393"/>
+    <!-- eyes -->
+    <rect x="22" y="20" width="6" height="6" fill="#0d0221"/>
+    <rect x="38" y="20" width="6" height="6" fill="#0d0221"/>
+    <!-- body -->
+    <rect x="10" y="30" width="40" height="22" fill="#3a86ff"/>
+    <rect x="24" y="32" width="12" height="18" fill="#ffd60a"/>
+    <!-- arms -->
+    <rect x="0"  y="30" width="10" height="20" fill="#f4b393"/>
+    <rect x="50" y="30" width="10" height="20" fill="#f4b393"/>
+    <!-- legs -->
+    <rect x="14" y="52" width="12" height="14" fill="#22223b"/>
+    <rect x="34" y="52" width="12" height="14" fill="#22223b"/>
+  </g>
+
+  <!-- ===== BLINKING PRESS START ===== -->
+  <text x="400" y="150" font-size="22" fill="#ffd60a" text-anchor="middle">
+    PRESS START
+    <animate attributeName="opacity" values="1;1;0;0" keyTimes="0;0.5;0.5;1" dur="1s" calcMode="discrete" repeatCount="indefinite"/>
+  </text>
+  <text x="400" y="178" font-size="10" fill="#8a7fb5" text-anchor="middle">PLAYER 1 — KARNIK KHANWILKAR</text>
+
+  <!-- ===== SCANLINE SWEEP ===== -->
+  <rect x="0" y="0" width="800" height="14" fill="#ffffff" opacity="0.05">
+    <animate attributeName="y" values="0;260;0" dur="6s" repeatCount="indefinite"/>
+  </rect>
+</svg>
