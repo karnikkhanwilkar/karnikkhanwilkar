@@ -18,12 +18,11 @@
 
 ## `01` — About
 
-I build GenAI systems end-to-end — retrieval pipelines, LLM orchestration, fine-tuning, and deployment on AWS SageMaker — currently at **GiryoTech**. The through-line in my work: intelligent systems that hold up in production, not just in demos.
+I build GenAI systems end-to-end — retrieval pipelines, LLM orchestration, fine-tuning, and deployment on AWS SageMaker. The through-line in my work: intelligent systems that hold up in production, not just in demos.
 
 ```text
 class      GenAI & Full-Stack Developer
-origin     B.Tech CSE — ITM University, Gwalior (2022–2026)
-location   Greater Indore Area, India
+origin     B.Tech CSE — ITM University (2022–2026)
 focus      RAG systems · LLM pipelines · scalable AI applications
 status     ● open to collaboration — GenAI / LLM
 ```
@@ -78,7 +77,7 @@ status     ● open to collaboration — GenAI / LLM
 
 | | role | company | period |
 |---|------|---------|--------|
-| `●` | GenAI Developer | GiryoTech | Apr 2026 — present |
+| `●` | GenAI Developer | — | present |
 | `○` | Full-Stack Developer | Rishishwar Industry | May — Jul 2025 |
 | `○` | Intelligent Automation Specialist | EduSkills Foundation | Sep — Nov 2023 |
 
@@ -126,6 +125,6 @@ status     ● open to collaboration — GenAI / LLM
 
 <br/><br/>
 
-<sub><code>© karnik khanwilkar — indore, india</code></sub>
+<sub><code>© karnik khanwilkar</code></sub>
 
 </div>
