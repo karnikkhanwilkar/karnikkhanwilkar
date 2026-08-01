@@ -1,0 +1,61 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 280" width="100%" role="img" aria-label="Karnik Khanwilkar — GenAI and Full-Stack Developer">
+  <defs>
+    <style>
+      .mono  { font-family: 'JetBrains Mono','Cascadia Code','Consolas',monospace; }
+      .disp  { font-family: 'Arial Narrow','Helvetica Neue',Arial,sans-serif; font-stretch: condensed; }
+      .serif { font-family: Georgia,'Times New Roman',serif; font-style: italic; }
+    </style>
+  </defs>
+
+  <!-- ============ CANVAS ============ -->
+  <rect width="900" height="280" fill="#FFFFFF"/>
+
+  <!-- subtle blueprint grid -->
+  <g stroke="#0E0E0C" stroke-opacity="0.05" stroke-width="1">
+    <path d="M0 70H900 M0 140H900 M0 210H900"/>
+    <path d="M112 0V280 M225 0V280 M337 0V280 M450 0V280 M562 0V280 M675 0V280 M787 0V280"/>
+  </g>
+
+  <!-- hairlines top & bottom -->
+  <rect x="0" y="0" width="900" height="1" fill="#0E0E0C" opacity="0.15"/>
+  <rect x="0" y="279" width="900" height="1" fill="#0E0E0C" opacity="0.15"/>
+
+  <!-- ============ INDEX ROW ============ -->
+  <text x="56" y="46" class="mono" font-size="11" letter-spacing="3" fill="#8A887F">00 — README</text>
+  <text x="844" y="46" class="mono" font-size="11" letter-spacing="3" fill="#8A887F" text-anchor="end">KARNIKKHANWILKAR.VERCEL.APP</text>
+
+  <!-- ============ ROLE ============ -->
+  <text x="56" y="92" class="mono" font-size="12" letter-spacing="4" fill="#6E8A0E">GENAI &amp; FULL-STACK DEVELOPER</text>
+
+  <!-- ============ NAME ============ -->
+  <text x="53" y="152" class="disp" font-size="62" font-weight="600" letter-spacing="0" fill="#0E0E0C">KARNIK KHANWILKAR</text>
+
+  <!-- lime underline draws in -->
+  <rect x="56" y="166" width="0" height="4" fill="#C8F04B">
+    <animate attributeName="width" values="0;540;540;540" keyTimes="0;0.22;0.92;1" dur="7s" calcMode="spline" keySplines="0.65 0 0.35 1; 0 0 1 1; 0 0 1 1" repeatCount="indefinite"/>
+    <animate attributeName="opacity" values="1;1;1;0" keyTimes="0;0.22;0.92;1" dur="7s" repeatCount="indefinite"/>
+  </rect>
+
+  <!-- ============ TAGLINE (serif italic accent, portfolio-style) ============ -->
+  <text x="56" y="207" font-size="17" fill="#55534C">
+    <tspan class="serif">Building</tspan>
+    <tspan class="mono" font-size="13" letter-spacing="1" dx="6">GenAI pipelines &amp; RAG systems that hold up in production</tspan>
+  </text>
+  <!-- blinking cursor -->
+  <rect x="580" y="195" width="7" height="14" fill="#C8F04B">
+    <animate attributeName="opacity" values="1;1;0;0" keyTimes="0;0.5;0.5;1" dur="1.1s" calcMode="discrete" repeatCount="indefinite"/>
+  </rect>
+
+  <!-- ============ FOOTER ROW ============ -->
+  <circle cx="61" cy="243" r="4" fill="#C8F04B">
+    <animate attributeName="opacity" values="1;0.25;1" dur="2s" repeatCount="indefinite"/>
+  </circle>
+  <text x="74" y="247" class="mono" font-size="11" letter-spacing="2" fill="#8A887F">OPEN TO COLLABORATION — GENAI / LLM</text>
+
+  <text x="844" y="247" class="mono" font-size="11" letter-spacing="2" fill="#8A887F" text-anchor="end">RAG · LLM · SAGEMAKER · FASTAPI · NEXT.JS</text>
+
+  <!-- sweeping lime tick along bottom hairline -->
+  <rect x="0" y="277" width="60" height="3" fill="#C8F04B">
+    <animate attributeName="x" values="-60;900" dur="9s" repeatCount="indefinite"/>
+  </rect>
+</svg>
